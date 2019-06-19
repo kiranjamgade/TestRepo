@@ -1,1 +1,1 @@
-Test integration with jira
+Test integration with jira tool
